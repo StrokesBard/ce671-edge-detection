@@ -1,0 +1,6 @@
+DeepGlobe Road Extraction Dataset/
+SWED_sample/
+SWED_sample_useable/
+__pycache__/
+.claude/
+.DS_Store
